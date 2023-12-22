@@ -1,4 +1,4 @@
-# CMPT276F23_group13
+# Maze Runner Game
 
 
 ## Project Description
